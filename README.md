@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32568658/README.md)
+[Uploading README.md…]()
 # Loan Approval Prediction — Classification + Regression
 
 ## Project Overview
@@ -161,15 +161,15 @@ The user does not directly enter the final prediction. The application calculate
 
 ### 1. Application Interface
 
-![Application Interface](images/application.png)
+![Application Interface](app.png)
 
 ### 2. Approved Loan — Recommended Amount
 
-![Approved Loan Result](images/approved_result.png)
+![Approved Loan Result](approved.png)
 
 ### 3. Loan Not Approved
 
-![Loan Not Approved Result](images/not_approved_result.png)
+![Loan Not Approved Result](not_approved.png)
 
 ## How to Use the Application
 
